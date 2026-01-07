@@ -1,0 +1,7 @@
+{
+  "name": "static-site",
+  "private": true,
+  "scripts": {
+    "build": "echo \"no build step\""
+  }
+}
