@@ -3,5 +3,9 @@
   "private": true,
   "scripts": {
     "build": "echo \"no build step\""
+  },
+  "engines": {
+    "node": ">=18",
+    "npm": ">=9"
   }
 }
