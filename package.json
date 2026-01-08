@@ -2,7 +2,7 @@
   "name": "static-site",
   "private": true,
   "scripts": {
-    "build": "echo \"no build step\""
+    "build": "mkdir -p dist && cp -r PDF 专栏 恋爱必修课 文章 极客时间 index.html dist/"
   },
   "engines": {
     "node": ">=18",
