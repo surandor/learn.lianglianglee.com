@@ -1,0 +1,11 @@
+{
+  "name": "static-site",
+  "private": true,
+  "scripts": {
+    "build": "mkdir -p dist && cp -r PDF 专栏 恋爱必修课 文章 极客时间 index.html dist/"
+  },
+  "engines": {
+    "node": ">=18",
+    "npm": ">=9"
+  }
+}
